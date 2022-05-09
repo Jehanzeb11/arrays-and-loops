@@ -276,18 +276,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 // question 13
 
 
@@ -295,7 +283,12 @@
 
 
 
-
+// var deviceArr = ["Keyboard","Mouse","printer","Monitor"];
+// document.write(deviceArr)
+// document.write("Out:"+"<br>"+deviceArr[0]+"<br>")
+// document.write("Out:"+"<br>"+deviceArr[1]+"<br>")
+// document.write("Out:"+"<br>"+deviceArr[2]+"<br>")
+// document.write("Out:"+"<br>"+deviceArr[3]+"<br>")
 
 
 
@@ -317,24 +310,16 @@
 // question 14
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// var deviceArr2 = [];
+// deviceArr2[0] ="Keyborad";
+// deviceArr2[1] ="mouse";
+// deviceArr2[2] ="Printer";
+// deviceArr2[3] ="monitor";
+// document.write(deviceArr2)
+// document.write("Out:"+"<br>"+deviceArr2[0]+"<br>")
+// document.write("Out:"+"<br>"+deviceArr2[1]+"<br>")
+// document.write("Out:"+"<br>"+deviceArr2[2]+"<br>")
+// document.write("Out:"+"<br>"+deviceArr2[3]+"<br>")
 
 
 
