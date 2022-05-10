@@ -7,8 +7,7 @@
 
 // question 2
 
-
-
+// let arr = new Array();
 
 
 
